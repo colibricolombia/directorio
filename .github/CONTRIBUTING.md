@@ -18,7 +18,7 @@ En caso de no saber manejar la herramienta `git` o `GitHub` pero desea agregar u
    `master` (`git merge upstream/master`).
 7. Repita los pasos 4, 5 y 6 para mantener su repositorio actualizado respecto
    al original.
-8. Al agregar un nuevo grupo o comunidad se debe tener en cuenta de ponerlo en orden alfabético y siguiendo el siguiente formato:
+8. Al agregar un **nuevo grupo** o comunidad se debe tener en cuenta de ponerlo en **orden alfabético**, que **ocupe solo una línea** y siguiendo el siguiente **formato**:
     - Comunidad: Nombre de la comunidad.
     - Link: Enlace al sitio o grupo de su comunidad.
 9. Cuando complete sus cambios, súbalos a su copia del repositorio (`git push origin master`).
