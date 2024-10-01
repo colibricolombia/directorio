@@ -5,9 +5,10 @@ Listado de comunidades, proyectos, grupos o cualquier iniciativa libre en Colomb
 
 ## Comunidades
 
-* [CanAirIO](https://github.com/kike-canaries) - Iniciativa de codigo y hardware abierto alrededor de la calidad del aire.  
+* [CanAirIO](https://github.com/kike-canaries) - Iniciativa de código y hardware abierto alrededor de la calidad del aire.  
 * [Colibri](https://t.me/ColibriColombia) - Comunidad de Colombianos que usan y promueven el Software Libre.
 * [GNUTADEO](https://github.com/gnutadeo) - Repositorio del colectivo de Software Libre GNUTADEO de la Universidad Jorge Tadeo Lozano.
+* [MeshtasticCO](https://t.me/meshtasticco) - Usuarios de Meshtastic en Colombia.
 * [OpenStreetMap](https://t.me/osmco) - Canal en Telegram de la comunidad OpenStreetMap Colombia.
 
 ## Soporte
