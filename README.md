@@ -1,7 +1,7 @@
 
 # Colibri Directorio
 
-Listado de comunidades, proyectos, grupos o cualquier iniciativa libre en Colombia. Para **contribuir a este directorio** siga esta [guia](https://github.com/colibricolombia/directorio/blob/main/.github/CONTRIBUTING.md).
+Listado de comunidades, proyectos o grupos de cualquier iniciativa libre en Colombia. Para **contribuir a este directorio** siga esta [guia](https://github.com/colibricolombia/directorio/blob/main/.github/CONTRIBUTING.md).
 
 ## Comunidades
 
