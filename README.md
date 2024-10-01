@@ -1,12 +1,21 @@
 
-## Colibri Directorio
+# Colibri Directorio
 
-Listado de comunidades, proyectos, grupos o cualquier iniciativa libre en Colombia.
+Listado de comunidades, proyectos, grupos o cualquier iniciativa libre en Colombia. Para **contribuir a este directorio** siga esta [guia](https://github.com/colibricolombia/directorio/blob/main/.github/CONTRIBUTING.md).
 
 ## Comunidades
 
 * [CanAirIO](https://github.com/kike-canaries) - Iniciativa de codigo y hardware abierto alrededor de la calidad del aire.  
 * [Colibri](https://t.me/ColibriColombia) - Comunidad de Colombianos que usan y promueven el Software Libre.
-* [OpenStreetMap](https://t.me/osmco) - Canal en Telegram de la comunidad OpenStreetMap Colombia.
 * [GNUTADEO](https://github.com/gnutadeo) - Repositorio del colectivo de Software Libre GNUTADEO de la Universidad Jorge Tadeo Lozano.
+* [OpenStreetMap](https://t.me/osmco) - Canal en Telegram de la comunidad OpenStreetMap Colombia.
 
+## Soporte
+
+En caso de no saber manejar la herramienta `git` o `GitHub` pero desea agregar una comunidad en este listado, revise esta [guía](https://github.com/colibricolombia/directorio/blob/main/.github/CONTRIBUTING.md) o solicite asistencia en el chat de [Colibri](https://t.me/ColibriColombia).
+
+### Licencia
+
+[![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)](https://creativecommons.org/publicdomain/mark/1.0/deed.es)
+
+This work is free of known copyright restrictions.
