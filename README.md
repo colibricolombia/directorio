@@ -12,10 +12,11 @@ Listado de comunidades, proyectos o grupos de cualquier iniciativa libre en Colo
 * [OpenStreetMap](https://t.me/osmco) - Canal en Telegram de la comunidad OpenStreetMap Colombia.
 * [Ubuntu Colombia](https://ubuntu-co.com) - Comunidad Oficial de Ubuntu en Colombia.
 
-
 ## Soporte
 
-En caso de no saber manejar la herramienta `git` o `GitHub` pero desea agregar una comunidad en este listado, revise esta [guía](https://github.com/colibricolombia/directorio/blob/main/.github/CONTRIBUTING.md) o solicite asistencia en el chat de [Colibri](https://t.me/ColibriColombia).
+En caso de no saber manejar la herramienta `git` o `GitHub` o `GitLab` pero desea agregar una comunidad en este listado, revise esta [guía](https://github.com/colibricolombia/directorio/blob/main/.github/CONTRIBUTING.md) o solicite asistencia en el chat de [Colibri](https://t.me/ColibriColombia) o cree un [issue](https://github.com/colibricolombia/directorio/issues).
+
+Este repositorio se encuentra también disponible en [GitLab](https://gitlab.com/colibricolombia/directorio).
 
 ### Licencia
 

@@ -2,7 +2,7 @@
 
 Para contribuir con este repositorio puede seguir el proceso de **Pull Request** que se describe a continuación. También es posible desde la interfaz web de GitHub como se muestra en este [video](https://www.youtube.com/watch?v=cZHP4tkUDsg).
 
-En caso de no saber manejar la herramienta `git` o `GitHub` pero desea agregar una comunidad en este listado, solicite asistencia en el chat de [Colibri](https://t.me/ColibriColombia).
+En caso de no saber manejar la herramienta `git` o `GitHub` pero desea agregar una comunidad en este listado, solicite asistencia en el chat de [Colibri](https://t.me/ColibriColombia) o cree un [issue](https://github.com/colibricolombia/directorio/issues).
 
 ## Proceso de Pull Request
 
@@ -24,7 +24,7 @@ En caso de no saber manejar la herramienta `git` o `GitHub` pero desea agregar u
 9. Cuando complete sus cambios, súbalos a su copia del repositorio (`git push origin master`).
 10. Realizar un `Pull Request` para solicitar agregar sus cambios al repositorio original usando el botón de pull request que aparece en GitHub.
 
-Una guía detalla de todo este proceso la puede encontrar [aquí](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+Una guía detallada de todo este proceso la puede encontrar [aquí](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 
 ## Sobre los derechos de autor
 
