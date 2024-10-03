@@ -10,6 +10,8 @@ Listado de comunidades, proyectos o grupos de cualquier iniciativa libre en Colo
 * [GNUTADEO](https://github.com/gnutadeo) - Colectivo de Software Libre GNUTADEO de la Universidad Jorge Tadeo Lozano.
 * [MeshtasticCO](https://t.me/meshtasticco) - Usuarios de Meshtastic en Colombia.
 * [OpenStreetMap](https://t.me/osmco) - Canal en Telegram de la comunidad OpenStreetMap Colombia.
+* [Ubuntu Colombia](https://ubuntu-co.com) - Comunidad Oficial de Ubuntu en Colombia.
+
 
 ## Soporte
 
